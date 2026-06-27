@@ -1,0 +1,6 @@
+{
+  "name": "AI Auto Agents",
+  "description": "Premium AI Agency offering text, WhatsApp, Instagram, and Email chatbots, plus specialized B2B Lead Generation and Lead Qualification Agents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
